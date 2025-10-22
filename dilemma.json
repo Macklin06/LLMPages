@@ -1,0 +1,11 @@
+{
+  "people": 4,
+  "case_1": {
+    "swerve": true,
+    "reason": "Saving one life instead of two, but the choice is difficult as it involves a child."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "The two individuals are perceived as criminals, making their lives less valuable."
+  }
+}
